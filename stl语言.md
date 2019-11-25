@@ -49,13 +49,13 @@ siteServer
 
 ```
 
-![快速添加](C:\Users\Kevin\Desktop\工作\stl语言\--stl--\快速添加.png)
+![images](https://github.com/Keviniswhite/--stl--/blob/master/快速添加.png)
 - 点击进去之后
-![快速添加](C:\Users\Kevin\Desktop\工作\stl语言\--stl--\快速创建栏目.jpg)
+![images](https://github.com/Keviniswhite/--stl--/blob/master/快速创建栏目.jpg)
 - 创建的结果
-![快速添加](C:\Users\Kevin\Desktop\工作\stl语言\--stl--\创建结果.jpg)
+![images](https://github.com/Keviniswhite/--stl--/blob/master/创建结果.jpg)
 - 栏目
-![快速添加](C:\Users\Kevin\Desktop\工作\stl语言\--stl--\栏目.jpg)
+![images](https://github.com/Keviniswhite/--stl--/blob/master/栏目.jpg)
  补充对应关系 按照下面的来
  ```html
 {channel.ChannelIndex}  栏目索引
@@ -65,8 +65,8 @@ siteServer
 {channel.Keywords}      栏目seo 的关键字
  ```
  - 内容
- ![快速添加](C:\Users\Kevin\Desktop\工作\stl语言\--stl--\内容.jpg)
- ![快速添加](C:\Users\Kevin\Desktop\工作\stl语言\--stl--\内容标签.jpg)
+ ![images](https://github.com/Keviniswhite/--stl--/blob/master/内容.jpg)
+ ![images](https://github.com/Keviniswhite/--stl--/blob/master/内容标签.jpg)
  补充对应关系 按照下面的来
  ```html
 {content.Title}  内容标题
@@ -78,7 +78,7 @@ siteServer
 ## 结合具体项目
 - 导航栏怎么去做
 1 上图
-	 ![快速添加](C:\Users\Kevin\Desktop\工作\stl语言\--stl--\导航栏实现后图.jpg)
+	 ![images](https://github.com/Keviniswhite/--stl--/blob/master/导航栏实现后图.jpg)
 2 上代码
 ```html
 <!-- 导航栏开始-->
@@ -363,7 +363,7 @@ siteServer
 ```
 ## 分页
 - 看图
- ![快速添加](C:\Users\Kevin\Desktop\工作\stl语言\--stl--\分页.jpg)
+ ![images](https://github.com/Keviniswhite/--stl--/blob/master/分页.jpg)
 - 上代码
 ```html
 	1 分页内容
