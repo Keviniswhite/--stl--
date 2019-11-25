@@ -49,7 +49,7 @@ siteServer
 
 ```
 
-![快速添加](C:\Users\Kevin\Desktop\工作\stl语言\--stl--\快速添加.png)
+![images](https://github.com/Keviniswhite/--stl--/blob/master/快速添加.png)
 - 点击进去之后
 ![快速添加](C:\Users\Kevin\Desktop\工作\stl语言\--stl--\快速创建栏目.jpg)
 - 创建的结果
